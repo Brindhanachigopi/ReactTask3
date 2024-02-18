@@ -1,0 +1,39 @@
+.HeaderColor{
+  color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline;
+  font-weight: bolder;
+}
+input{
+  border:2px solid green;
+  border-radius: 10px;
+  height:50px;
+  width: 400px;
+  
+}
+button{
+  background-color: green;
+  color: white;
+  padding: 10px;
+  width: 30vh;
+  border-radius: 10px;
+  font-weight: bolder;
+}
+.card{
+  background-color: rgb(105, 255, 105);
+  padding: 10px;
+  border: 2px solid black;
+  gap: 10px;
+  display: flex;
+  row-gap: 10px;
+}
+.content{
+  font-size: 20px;
+  text-decoration: underline;
+}
+.dropdown-menu{
+  background-color: #b6fcb8;
+}
+/* .btn {
+  background-color: pink;
+} */
